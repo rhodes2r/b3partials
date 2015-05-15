@@ -1,0 +1,30 @@
+
+
+body
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar
+{
+    margin-bottom: 20px;
+}
+
+.top-pad
+{
+}
+
+.top-margin
+{
+    margin-top: 10px;
+}
+
+
+
+input.hide-number-spinner::-webkit-outer-spin-button,
+input.hide-number-spinner::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+                           }

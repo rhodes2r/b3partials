@@ -1,0 +1,26 @@
+
+
+.color-me-grey
+{
+    background-color: #e8e9e1;
+}
+
+.valign-text-center
+{
+    height: 30px;
+    padding-top: 5px;
+}
+
+.valign-button-center
+{
+    margin-top: -6px;
+}
+
+.glyph-fix
+{
+    height: 20px;
+    width: 20px;
+    margin-bottom: -17px;
+    padding-top: 3px;
+}
+
